@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/geometrizer/static/css/main.81e6fef5.chunk.css",
+    "main.js": "/geometrizer/static/js/main.e99451f8.chunk.js",
+    "main.js.map": "/geometrizer/static/js/main.e99451f8.chunk.js.map",
+    "runtime~main.js": "/geometrizer/static/js/runtime~main.684ddaaa.js",
+    "runtime~main.js.map": "/geometrizer/static/js/runtime~main.684ddaaa.js.map",
+    "static/js/2.6f4f9af9.chunk.js": "/geometrizer/static/js/2.6f4f9af9.chunk.js",
+    "static/js/2.6f4f9af9.chunk.js.map": "/geometrizer/static/js/2.6f4f9af9.chunk.js.map",
+    "index.html": "/geometrizer/index.html",
+    "precache-manifest.0ee79fd3168652b1a8a49076baf2eee0.js": "/geometrizer/precache-manifest.0ee79fd3168652b1a8a49076baf2eee0.js",
+    "service-worker.js": "/geometrizer/service-worker.js",
+    "static/css/main.81e6fef5.chunk.css.map": "/geometrizer/static/css/main.81e6fef5.chunk.css.map"
+  }
+}
